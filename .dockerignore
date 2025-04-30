@@ -1,0 +1,7 @@
+node_modules
+dkc.rar
+dkc.zip
+build
+.dockerignore
+Dockerfile
+npm-debug.log
